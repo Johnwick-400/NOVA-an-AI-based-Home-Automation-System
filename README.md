@@ -1,16 +1,42 @@
-# test
+# NOVA: AI-Based Home Automation
 
-A new Flutter project.
+NOVA is an AI-based home automation project, featuring our custom Nova Voice Assistant designed to provide personalized assistance.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Nova Voice Assistant**: Our specialized voice assistant tailored for home automation tasks.
+- **Flutter App**: User-friendly interface developed with Flutter for seamless interaction.
+- **Home Automation**: Control various devices and systems within your home environment.
+- **Personalized Assistance**: Nova learns and adapts to provide customized help and suggestions.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository: `git clone https://github.com/Johnwick-400/NOVA-an-AI-based-Home-Automation-System`
+2. Navigate to the project directory: `cd NOVA`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+1. Launch the NOVA app on your device.
+2. Log in or create an account to access personalized features.
+3. Use voice commands to interact with Nova for home automation tasks.
+4. Explore the app's interface for manual control and settings.
+
+## Contributing
+
+We welcome contributions to improve NOVA and make it even more efficient and user-friendly. If you have suggestions, bug fixes, or new features to add, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch: `git checkout -b feature/new-feature`
+3. Make your changes and commit them: `git commit -am 'Add new feature'`
+4. Push to the branch: `git push origin feature/new-feature`
+5. Submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For any inquiries or feedback, please contact us at [email@example.com](mailto:email@example.com).
