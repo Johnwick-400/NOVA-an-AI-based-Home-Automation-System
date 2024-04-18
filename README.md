@@ -12,7 +12,7 @@ NOVA is an AI-based home automation project, featuring our custom Nova Voice Ass
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/Johnwick-400/NOVA-an-AI-based-Home-Automation-System`
-2. Navigate to the project directory: `cd NOVA`
+2. Navigate to the project directory: `cd NOVA-an-AI-based-Home-Automation-System`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
@@ -33,10 +33,6 @@ We welcome contributions to improve NOVA and make it even more efficient and use
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries or feedback, please contact us at [email@example.com](mailto:email@example.com).
+For any inquiries or feedback, please contact us at [pavantejveesam26@gmail.com](mailto:pavantejveesam26@gmail.com).
